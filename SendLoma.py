@@ -1,4 +1,4 @@
-#Code ที่เขียนสำเร็จรูปสามารถเปลี่ยน Token Line แล้วใช้ได้เลย
+#Code python ที่เขียนสำเร็จรูปสามารถเปลี่ยน Token Line แล้วใช้ได้เลย
 '''
 GPS Interfacing with Raspberry Pi using Pyhton
 http://www.electronicwings.com
