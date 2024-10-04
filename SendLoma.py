@@ -9,7 +9,7 @@ import webbrowser           #import package for opening link in browser
 import sys  
 import requests   
 url = 'https://notify-api.line.me/api/notify'
-token = 'FprESOubV85LWKxPJTg9GVnn3VBSGTdOSU9PqVMZofi'
+#token = '' //your token in notify-api
 headers = {'content-type':'application/x-www-form-urlencoded','Authorization':'Bearer '+token}
 
 def GPS_Info():
